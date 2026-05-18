@@ -18,7 +18,7 @@
   <a href="#local-development">Local development</a>
 </p>
 
-![Lumi demo](assets/demo.gif)
+![Lumi demo](lumi.v.1.0.png)
 
 ## What Lumi does
 
