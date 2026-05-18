@@ -4,6 +4,8 @@
   <img src="assets/lumi-orb.png" alt="Lumi orb" width="96" height="96" />
 </p>
 
+<h1 align="center">Lumi</h1>
+
 <p align="center">
   Calm floating workspace panels for YouTube, screenshots, images, and PDFs on macOS.
 </p>
@@ -18,7 +20,13 @@
   <a href="#local-development">Local development</a>
 </p>
 
-![Lumi demo](lumi.v.1.0.png)
+<p align="center">
+  <img 
+    src="assets/ef55fee3f6e1bc1ca82a9d1009925e7a9cf4de3d6abd0bcc7c41ad096cce0cdf.png" 
+    alt="Lumi v1.0 Preview"
+    width="1200"
+  />
+</p>
 
 ## What Lumi does
 
